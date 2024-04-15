@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "conexion": {
+      "commandName": "Project",
+      "commandLineArgs": "-d https://dl-cdn.alpinelinux.org/alpine/v3.19/releases/aarch64/alpine-standard-3.19.1-aarch64.iso -s c:\\speedtest\\speedtest"
+    }
+  }
+}
